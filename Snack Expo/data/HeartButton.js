@@ -7,3 +7,4 @@ onPress={toggleFavorite}
 </Text>
 
 </TouchableOpacity> 
+ setFavorite(!favorite)
